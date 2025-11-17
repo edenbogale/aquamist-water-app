@@ -1,0 +1,8 @@
+2025-09-05 18:32:56 - {"Body":{"stkCallback":{"MerchantRequestID":"706e-416b-a8a6-583762eaa5dc1324","CheckoutRequestID":"ws_CO_050920251932421721290888","ResultCode":1032,"ResultDesc":"Request Cancelled by user."}}}
+
+2025-09-05 20:18:37 - {"Body":{"stkCallback":{"MerchantRequestID":"e460-4e97-ba1e-a4d766ef954b2604","CheckoutRequestID":"ws_CO_050920252118108715518414","ResultCode":1037,"ResultDesc":"No response from user."}}}
+
+2025-09-05 21:38:44 - {"Body":{"stkCallback":{"MerchantRequestID":"081f-4137-b79e-8947113ecc5d2441","CheckoutRequestID":"ws_CO_050920252238194721290888","ResultCode":2001,"ResultDesc":"The initiator information is invalid."}}}
+
+2025-10-08 06:59:56 - 
+
