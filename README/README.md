@@ -87,4 +87,4 @@ This project represents my commitment to using technology for **real human needs
 Clean water is a **basic right** — and Aquamist helps protect it, one delivery at a time.
 
 **Developed with 💧 by Eden Bogale**  
-*Grand Finale Project • [Your Bootcamp/Program Name] • November 2025*
+*Grand Finale Project • November 2025*
